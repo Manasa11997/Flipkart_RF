@@ -2,10 +2,7 @@
 Library  SeleniumLibrary
 Resource  ../Operations/Automate.robot
 Resource  ../Operations/Variables.robot
-Library  SeleniumLibrary
-Resource  ../Operations/Automate.robot
-Resource  ../Operations/Variables.robot
-Library  SeleniumLibrary
+
 
 *** Test Cases ***
 User should be able to add the electronic device to the cart
